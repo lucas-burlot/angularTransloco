@@ -36,6 +36,8 @@ Voici les points clés à retenir :
 
 `prodMode` : Permet de définir si nous sommes en prod ou pas. Si nous sommes en prod, nous n'aurons aucun message d'erreur/warning concernant la traduction
 
+`fallbackLang ` : Permet de spécifier la langue à utiliser lorsque la traduction pour la langue demandée n'est pas disponible
+
 En conclusion, j'ai choisi Transloco parceque je le trouve plus simple niveau utilisation, plus rapide, moins lourd. Le seul aspect négatif c'est que ce n'est pas natif à Angular, si les dev ne souhaitent plus maintenir cette librairie c'est compliqué.
 
 ---
