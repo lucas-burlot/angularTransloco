@@ -1,0 +1,27 @@
+{
+  "navbar": {
+    "language": {
+      "buttonTitle": "Langue",
+      "fr": "Français",
+      "en": "Anglais"
+    }
+  },
+  "header": {
+    "title": "Album de Georges",
+    "subtitle": "Voici un album de Georges, le premier singe français"
+  },
+  "photos": {
+    "1": {
+      "title": "Georges sur un rocher",
+      "description": "Nous pouvons voir Georges dans son état naturel. Il est en train de faire le beau-gosse sur un rocher"
+    },
+    "2": {
+      "title": "Georges le savant",
+      "description": "On peut voir Georges en train de réfléchir à un problème de physique quantique"
+    },
+    "3": {
+      "title": "Georges en train de couper du bois",
+      "description": "Georges est en train de couper du bois pour se faire un feu. On peut voir qu'il est très musclé"
+    }
+  }
+}

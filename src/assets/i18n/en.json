@@ -1,0 +1,27 @@
+{
+  "navbar": {
+    "language": {
+      "buttonTitle": "Language",
+      "fr": "French",
+      "en": "English"
+    }
+  },
+  "header": {
+    "title": "The album of Georges",
+    "subtitle": "Here is an album of Georges, the first french monkey"
+  },
+  "photos": {
+    "1": {
+      "title": "Georges on a rock",
+      "description": "We can see Georges in his natural state. He is being a handsome guy on a rock"
+    },
+    "2": {
+      "title": "Georges the scientist",
+      "description": "We can see Georges thinking about a quantum physics problem"
+    },
+    "3": {
+      "title": "Georges cutting wood",
+      "description": "Georges is cutting wood to make a fire. We can see that he is very muscular"
+    }
+  }
+}
