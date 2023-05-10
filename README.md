@@ -1,4 +1,13 @@
 # Angular projet avec Transloco
+
+## Lancer le projet
+
+`ng serve`
+
+## Lancer les tests unitaires
+
+`ng test`
+
 ## Pourquoi Transloco?
 
 J'ai choisi d'utiliser Transloco plutôt que le module Angular Localize pour plusieurs raisons. 
