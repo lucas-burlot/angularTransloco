@@ -5,7 +5,7 @@ J'ai choisi d'utiliser Transloco plutôt que le module Angular Localize pour plu
 
 - **Flexibilité** : Transloco offre une grande flexibilité en termes de configuration. Il permet de charger dynamiquement les fichiers de traduction au besoin, ce qui permet d'économiser les ressources et d'améliorer les performances de l'application. Globalement, ça veut dire qu'on ne charge que les traductions qui sont visibles sur notre page.
   
-- **Efficacité** : Les traductions sont toutes implémentés dans des fichiers JSON, et comme nous le savons le JSON est un fichier vraiment pas lourd
+- **Efficacité** : Les traductions sont toutes implémentés dans des fichiers JSON, et comme nous le savons le JSON est un fichier vraiment pas lourd.
 
 - **Temps réel** : Transloco permet de facilement changer de langue en temps réel, sans avoir à recharger la page.
 
@@ -20,6 +20,7 @@ PS : Petit bonus, la librairie est très maintenue. Il vient même d'y avoir un 
 La configuration de Transloco est relativement simple. Globalement les configurations sont gérés dans un fichier qui s'appelle `transloco-root.module.ts`.
 
 Voici les points clés à retenir :
+
 `defaultLang` : C'est la langue par défaut qui sera définie pour notre application. Généralement, c'est la première langue qui sera chargée.
 
 `availableLangs` : Ce sont les langues qui seront disponibles dans notre application. Ça fais appel aux fichiers .json de traductions.
