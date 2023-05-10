@@ -1,7 +1,4 @@
 # Angular projet avec Transloco
-
-Ce document est une présentation globale de mon projet qui implémente le multilinguisme en utilisant la bibliothèque Transloco. Ce projet a été conçu pour être facilement traduit en anglais et en français.
-
 ## Pourquoi Transloco?
 
 J'ai choisi d'utiliser Transloco plutôt que le module Angular Localize pour plusieurs raisons. 
